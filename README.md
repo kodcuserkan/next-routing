@@ -1,1 +1,1 @@
-Roting işlemleri - NextJS framework
+Routing işlemleri - NextJS framework
